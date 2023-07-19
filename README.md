@@ -6,7 +6,7 @@
 
 ### How to use Automatic1111 Python virtual environment (venv) and requirements with ComfyUI.
 
-1. Create a shell script in the ComfyUI root directory to activate Automatic1111 venv
+Create a shell script in the ComfyUI root directory to activate Automatic1111 venv
 
 Example of `/ComfyUI/start.sh` script
 ```terminal
@@ -39,7 +39,7 @@ python3 $COMFYUI_PATH/main.py --listen
 
 ### How to use existing Automatic1111 models in ComfyUI
 
-1. Edit `extra_model_paths.yaml` located in the ComfyUI root folder.
+Edit `extra_model_paths.yaml` located in the ComfyUI root folder.
 
 Example of extra_model_paths.yaml contents:
 ```terminal
