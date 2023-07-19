@@ -22,8 +22,8 @@ git pull
 
 # Activate venv#!/bin/sh
 
-PYTHON_ENV=/home/mark/stable-diffusion-webui/venv/bin
-COMFYUI_PATH=/home/mark/ComfyUI
+PYTHON_ENV=/home/username/stable-diffusion-webui/venv/bin
+COMFYUI_PATH=/home/username/ComfyUI
 
 cd $COMFYUI_PATH
 git pull
