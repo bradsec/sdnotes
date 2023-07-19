@@ -2,7 +2,7 @@
 
 ***These instructions contain Linux shell scripts, (not suitable for Windows)***
 
-## Running Automatic1111 and ComfyUI
+## Running Automatic1111 and ComfyUI together sharing Python environment and models
 
 ### How to use Automatic1111 Python virtual environment (venv) and requirements with ComfyUI.
 
